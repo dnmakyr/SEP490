@@ -1,0 +1,10 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.data
+dist
+.idea
+pnpm-lock.yaml
+.output

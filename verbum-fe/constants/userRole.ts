@@ -1,0 +1,1 @@
+export const ServiceManagersRole = ['EVALUATE_MANAGER', 'EDIT_MANAGER', 'TRANSLATE_MANAGER']
